@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-*{
+body{
 		background-color: rgb(204, 204, 204);
 }
 h1{
@@ -13,4 +13,8 @@ ul li{
 }
 a{
 	text-decoration-line: none;
+}
+.player_one,.player_two{
+	background-color: rgb(255, 255, 255); 
+	padding: border-radius;
 }
